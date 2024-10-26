@@ -10,7 +10,7 @@ This project is the backend for user registration, login authentication, and aut
 
 ## API Documentation
 
-For detailed API endpoints and request/response formats, please refer to the [Postman Documentation]([https://www.postman.com/link-to-documentation](https://documenter.getpostman.com/view/39168834/2sAY4sjQAU)).
+For detailed API endpoints and request/response formats, please refer to the [Postman Documentation](https://documenter.getpostman.com/view/39168834/2sAY4sjQAU).
 
 ## Tech Stack
 
